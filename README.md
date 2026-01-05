@@ -14,9 +14,11 @@ MemoraAI centralizes learning materials and uses AI to create exam-ready, person
 - Progress tracking dashboard
 
 ## Tech Stack (Planned)
-- Gemini AI
-- Firebase
-- Google Cloud
+- Frontend: Lovable AI
+- AI: Google Gemini (conceptual integration)
+- Backend: Firebase (authentication, storage - planned)
+- Cloud: Google Cloud Platform
+
 
 ## Status
 This project is a frontend prototype created for hackathon demonstration.
