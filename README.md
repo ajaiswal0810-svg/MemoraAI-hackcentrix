@@ -9,7 +9,7 @@ MemoraAI centralizes learning materials and uses AI to create exam-ready, person
 
 ## 🚀 Live Demo
 
-- **MVP (Deployed Prototype):** https://memoraai.lovable.app
+- **Live MVP (Deployed Prototype):** https://memoraai.lovable.app
 - **Demo Video:** Coming soon (before final judging)
 
 ## Features
