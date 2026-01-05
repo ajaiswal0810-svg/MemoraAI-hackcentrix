@@ -7,6 +7,11 @@ Students struggle with information overload and inefficient revision using scatt
 ## Solution
 MemoraAI centralizes learning materials and uses AI to create exam-ready, personalized study experiences.
 
+## 🚀 Live Demo
+
+- **MVP (Deployed Prototype):** https://memoraai.lovable.app
+- **Demo Video:** https://"enter here"
+
 ## Features
 - AI-powered summaries (prototype)
 - Smart flashcards
