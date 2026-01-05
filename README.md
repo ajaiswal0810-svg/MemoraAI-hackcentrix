@@ -18,6 +18,23 @@ MemoraAI centralizes learning materials and uses AI to create exam-ready, person
 - Personalized revision paths
 - Progress tracking dashboard
 
+## 📸 Screenshots
+
+### Home
+![Home](Screenshots-MemoraAI/Screenshot%20(97).png)
+
+### Upload
+![Upload](Screenshots-MemoraAI/Screenshot%20(98).png)
+
+### Dashboard
+![Dashboard](Screenshots-MemoraAI/Screenshot%20(99).png)
+
+### Revision
+![Revision](Screenshots-MemoraAI/Screenshot%20(100).png)
+
+### Pricing
+![Pricing](Screenshots-MemoraAI/Screenshot%20(102).png)
+
 ## Tech Stack (Planned)
 - Frontend: Lovable AI
 - AI: Google Gemini (conceptual integration)
