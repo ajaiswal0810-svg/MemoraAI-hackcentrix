@@ -1,6 +1,10 @@
 # MemoraAI
 MemoraAI is an AI-powered study companion designed to help students turn scattered notes, PDFs, and links into structured summaries, flashcards, and personalized revision paths.
 
+## About
+MemoraAI is an AI-powered study companion developed during a hackathon.
+The prototype was created using Lovable AI to rapidly validate the product concept. This repository contains project documentation, screenshots, and demo resources.
+
 ## Problem
 Students struggle with information overload and inefficient revision using scattered resources.
 
